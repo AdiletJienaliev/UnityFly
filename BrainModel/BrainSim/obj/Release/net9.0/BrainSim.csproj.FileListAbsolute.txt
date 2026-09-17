@@ -1,0 +1,14 @@
+C:\Unity Projects\FlyBrain\BrainModel\BrainSim\bin\Release\net9.0\BrainSim.exe
+C:\Unity Projects\FlyBrain\BrainModel\BrainSim\bin\Release\net9.0\BrainSim.deps.json
+C:\Unity Projects\FlyBrain\BrainModel\BrainSim\bin\Release\net9.0\BrainSim.runtimeconfig.json
+C:\Unity Projects\FlyBrain\BrainModel\BrainSim\bin\Release\net9.0\BrainSim.dll
+C:\Unity Projects\FlyBrain\BrainModel\BrainSim\bin\Release\net9.0\BrainSim.pdb
+C:\Unity Projects\FlyBrain\BrainModel\BrainSim\obj\Release\net9.0\BrainSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unity Projects\FlyBrain\BrainModel\BrainSim\obj\Release\net9.0\BrainSim.AssemblyInfoInputs.cache
+C:\Unity Projects\FlyBrain\BrainModel\BrainSim\obj\Release\net9.0\BrainSim.AssemblyInfo.cs
+C:\Unity Projects\FlyBrain\BrainModel\BrainSim\obj\Release\net9.0\BrainSim.csproj.CoreCompileInputs.cache
+C:\Unity Projects\FlyBrain\BrainModel\BrainSim\obj\Release\net9.0\BrainSim.dll
+C:\Unity Projects\FlyBrain\BrainModel\BrainSim\obj\Release\net9.0\refint\BrainSim.dll
+C:\Unity Projects\FlyBrain\BrainModel\BrainSim\obj\Release\net9.0\BrainSim.pdb
+C:\Unity Projects\FlyBrain\BrainModel\BrainSim\obj\Release\net9.0\BrainSim.genruntimeconfig.cache
+C:\Unity Projects\FlyBrain\BrainModel\BrainSim\obj\Release\net9.0\ref\BrainSim.dll
