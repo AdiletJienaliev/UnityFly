@@ -1,0 +1,40 @@
+name: Bug report / Баг
+description: Something in the simulation behaves wrong or crashes
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you expect, and what did the fly (or the editor) do instead?
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: How to reproduce
+      placeholder: |
+        1. Open FlyBrainDemo.unity
+        2. Press Play, wait for dawn
+        3. Press 1 + LMB near the apple
+        4. ...
+    validations:
+      required: true
+  - type: input
+    id: unity
+    attributes:
+      label: Unity version
+      placeholder: "6000.4.3f1"
+    validations:
+      required: true
+  - type: input
+    id: os
+    attributes:
+      label: OS / CPU
+      placeholder: "Windows 11, i5-12400F"
+  - type: textarea
+    id: log
+    attributes:
+      label: Console log / screenshots
+      description: Paste the relevant part of the Unity console, or attach a screenshot.
+      render: text

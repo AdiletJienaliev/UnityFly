@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Original brain model (Shiu et al., Nature 2024)
+    url: https://github.com/philshiu/Drosophila_brain_model
+    about: Questions about the LIF model itself belong upstream.
+  - name: FlyWire connectome
+    url: https://flywire.ai/
+    about: Questions about the connectome data and neuron annotations.

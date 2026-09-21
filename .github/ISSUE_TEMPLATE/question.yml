@@ -1,0 +1,13 @@
+name: Question or idea / Вопрос или идея
+description: Ask about the brain model, the behaviour layer, or suggest something
+labels: [question]
+body:
+  - type: textarea
+    id: body
+    attributes:
+      label: Your question or idea
+      description: |
+        Neuroscience questions are welcome too — which cell types are wired up, how a pathway is decoded,
+        why something is marked "OUTSIDE THE MODEL". Русский тоже подойдёт.
+    validations:
+      required: true
